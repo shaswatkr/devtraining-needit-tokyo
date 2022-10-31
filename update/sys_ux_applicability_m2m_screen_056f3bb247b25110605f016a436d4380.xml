@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="NeedIt Admins">f40f733647b25110605f016a436d43a5</applicability>
+        <order>100</order>
+        <screen display_value="NeedIt Admin home">782bea76477e1110605f016a436d43f7</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:26:00</sys_created_on>
+        <sys_id>056f3bb247b25110605f016a436d4380</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_056f3bb247b25110605f016a436d4380</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
